@@ -33,4 +33,9 @@ Generar perfiles aleatorios funcionales utilizando la API de RandomUser, present
 </span>
 
 ## 📁 Estructura del Proyecto
+- Generar-Perfil-Aleatorio
+  - index.html
+  - script.js
+  - README.md
+  - styles.css
 
