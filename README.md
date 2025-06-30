@@ -2,6 +2,8 @@
 
 ## 🎯 Product Backlog
 Crear una aplicación web que permita generar un perfil aleatorio cada vez que el usuario lo solicite.
+![Gestion de tareas personales](Portada%20.png)
+
 
 ## 🎯 Sprint Goal
 Generar perfiles aleatorios funcionales utilizando la API de RandomUser, presentados en una tarjeta con nombre, país, imagen y email.
